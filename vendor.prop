@@ -180,6 +180,9 @@ vendor.usb.use_gadget_hal=1
 # Verity
 ro.apk_verity.mode=2
 
+# WiFi
+wifi.aware.interface=wifi-aware0
+
 # WiFi Display
 persist.debug.wfd.enable=1
 persist.sys.wfd.virtual=0
